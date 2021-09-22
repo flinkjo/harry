@@ -2,3 +2,5 @@ foo
 foo
 
 test
+
+a feature
